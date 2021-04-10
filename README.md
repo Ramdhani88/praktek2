@@ -6,7 +6,7 @@ Selanjutnya hasil dari codingan dibuka dibrowser dan hasilnya seperti gambar dib
 ### Mendeklarasikan CSS Internal
 Kemudian masukkan css internal pada kolom head ![ss3](https://user-images.githubusercontent.com/81758035/114272188-4e2b2680-9a3f-11eb-9334-40e95485f19f.jpg)
 ### Modul Praktikum Web
-Dan hasil css internal yang kita buat akan menjadi seperti ini <img width="960" alt="ss9" src="https://user-images.githubusercontent.com/81758035/114273090-01494f00-9a43-11eb-99d7-41710cad046f.png">
+Dan hasil css internal yang kita buat akan menjadi seperti ini ![ss4](https://user-images.githubusercontent.com/81758035/114273156-45d4ea80-9a43-11eb-82e1-8aea0bf362d7.jpg)
 
 ### Membuat CSS Eksternal
 Buatlah dengan cara berikut ini dengan membuat file baru dengan format .css <img width="960" alt="ss10" src="https://user-images.githubusercontent.com/81758035/114272858-ffcb5700-9a41-11eb-9263-ed4f533bfb42.png">
